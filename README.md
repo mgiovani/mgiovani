@@ -23,4 +23,9 @@
 <br/>
 
 ### Profile overview: (only public contributions)
+
 ![mgiovani's github stats](https://github-readme-stats.vercel.app/api?username=mgiovani&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
+
+### Top languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgiovani&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)](https://github.com/mgiovani/)
