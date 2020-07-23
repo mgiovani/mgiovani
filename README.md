@@ -10,15 +10,15 @@
 
 ### Some projects I am currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mgiovani&repo=mocorona)](https://github.com/mgiovani/mocorona)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mgiovani&repo=base16-whatsapp)](https://github.com/mgiovani/base16-whatsapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mgiovani&repo=mocorona&show_owner=true)](https://github.com/mgiovani/mocorona)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mgiovani&repo=base16-whatsapp&show_owner=true)](https://github.com/mgiovani/base16-whatsapp)
 
 <br/>
 
 ### Some projects that I've contributed to:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JaidedAI&repo=EasyOCR)](https://github.com/JaidedAI/EasyOCR)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tfedor&repo=AugmentedSteam)](https://github.com/tfedor/AugmentedSteam)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JaidedAI&repo=EasyOCR&show_owner=true)](https://github.com/JaidedAI/EasyOCR)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tfedor&repo=AugmentedSteam&show_owner=true)](https://github.com/tfedor/AugmentedSteam)
 
 <br/>
 
