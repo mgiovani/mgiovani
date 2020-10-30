@@ -8,8 +8,8 @@
 
 ### Some of my projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mgiovani&repo=mocorona&show_owner=true)](https://github.com/mgiovani/mocorona)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mgiovani&repo=base16-whatsapp&show_owner=true)](https://github.com/mgiovani/base16-whatsapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mgiovani&repo=mocorona&show_owner=true)](https://github.com/mgiovani/mocorona)
 
 <br/>
 
@@ -22,5 +22,5 @@
 
 ### Profile overview: (only public contributions)
 ![mgiovani's github stats](https://github-readme-stats.vercel.app/api?username=mgiovani&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgiovani&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)](https://github.com/mgiovani/)
+
 
