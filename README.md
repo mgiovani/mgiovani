@@ -3,8 +3,9 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgiovani/)](https://www.linkedin.com/in/mgiovani/)
-[![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/mgiovani/)](https://gitlab.com/mgiovani/)
 [![GitHub followers](https://img.shields.io/github/followers/mgiovani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mgiovani?tab=followers)
+
+https://mgiovani.com/
 
 ### Some of my projects:
 
