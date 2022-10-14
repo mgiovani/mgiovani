@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
-<h3 align="center">A Software Engineer passionate about learning new things and solve problems</h3>
+<h4 align="center">A Software Engineer passionate about learning new things and solve problems</h4>
 
 - 📫 Reach me: **contact@mgiovani.com**
 
