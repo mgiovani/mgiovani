@@ -16,6 +16,8 @@
 
 
 <h4 align="left">Open Source contributions:</h4>
+<a href="https://github.com/github/docs">github/docs</a>
+<br/>
 <a href="https://github.com/microsoft/botbuilder-python">microsoft/botbuilder-python</a>
 <br/>
 <a href="https://github.com/JaidedAI/EasyOCR">JaidedAI/EasyOCR</a>
