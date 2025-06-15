@@ -7,6 +7,8 @@
 
 
 <h4 align="left">My public projects:</h4>
+<a href="https://github.com/mgiovani/ai-cursor-init">mgiovani/ai-cursor-init</a>
+<br/>
 <a href="https://github.com/mgiovani/my-instants-discord-bot">mgiovani/my-instants-discord-bot</a>
 <br/>
 <a href="https://github.com/mgiovani/base16-whatsapp">mgiovani/base16-whatsapp</a>
