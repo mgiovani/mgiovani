@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
 <h4 align="center">A Software Engineer passionate about learning new things and solve problems</h4>
 
-- 📫 Reach me: **contact@mgiovani.com**
+- 📫 Reach me: **contact@mgiovani.com** | **e@giovani.dev**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mgiovani/)
 
