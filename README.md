@@ -1,28 +1,5 @@
-<h1 align="center">Hi 👋, I'm Giovani</h1>
-<h4 align="center">A Software Engineer passionate about learning new things and solve problems</h4>
+<div align="center">
 
-- 📫 Reach me: **contact@mgiovani.com** | **e@giovani.dev**
+[e@giovani.dev](mailto:e@giovani.dev) · [blog](https://giovani.dev/) · [linkedin](https://www.linkedin.com/in/mgiovani/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mgiovani/)
-
-
-<h4 align="left">My public projects:</h4>
-<a href="https://github.com/mgiovani/ai-cursor-init">mgiovani/ai-cursor-init</a>
-<br/>
-<a href="https://github.com/mgiovani/my-instants-discord-bot">mgiovani/my-instants-discord-bot</a>
-<br/>
-<a href="https://github.com/mgiovani/base16-whatsapp">mgiovani/base16-whatsapp</a>
-<br/>
-<a href="https://github.com/mgiovani/reseller-cashback-api">mgiovani/reseller-cashback-api</a>
-<br/>
-
-
-<h4 align="left">Open Source contributions:</h4>
-<a href="https://github.com/github/docs">github/docs</a>
-<br/>
-<a href="https://github.com/microsoft/botbuilder-python">microsoft/botbuilder-python</a>
-<br/>
-<a href="https://github.com/JaidedAI/EasyOCR">JaidedAI/EasyOCR</a>
-<br/>
-<a href="https://github.com/okfn-brasil/querido-diario">okfn-brasil/querido-diario</a>
-<br/>
+</div>
